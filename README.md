@@ -6,5 +6,7 @@
 
 ## Links
   Wikidot webpage describing requirements and documentation: http://smartt.wikidot.com/
+
   Final published paper: https://link.springer.com/content/pdf/10.3758%2Fs13428-010-0056-6.pdf
+  
   Paper using the Smart-T system: https://www.pnas.org/content/108/15/6038
